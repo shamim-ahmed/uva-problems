@@ -6,6 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
 
+// NOTE: This solution was not accepted by Online Judge
 public class Main {
   public static void main(String... args) {
     processInput(System.in, System.out);
