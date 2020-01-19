@@ -13,7 +13,7 @@ public class MainTest {
   private static final String CHAR_SET_NAME = "UTF-8";
   private static final int INITIAL_SIZE = 1024;
   
-  private static final int[] INPUT_SET_DESIGNATORS = {1, 2, 3}; 
+  private static final int[] INPUT_SET_DESIGNATORS = {1, 2}; 
   
   @Test
   public void test() throws Exception {  
